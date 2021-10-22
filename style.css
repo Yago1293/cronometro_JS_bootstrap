@@ -1,0 +1,21 @@
+
+/* DEIXA CENTRALIZADO DE ACORDO COM  A PAGINA*/
+*{
+
+    margin:0 auto;
+
+}
+.max-width{
+    margin-top:10%;
+    text-align: center;
+}
+
+.margin{
+    margin-right:10px;
+}
+
+.fundo{
+    margin-top:560px;
+}
+
+
